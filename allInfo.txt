@@ -1,0 +1,458 @@
+Zhiguang Qin|University of Electronic Science and Technology of China|110|not found|not found
+Kaigui Bian|Peking University|91|not found|not found
+Chang Tian|PLA University of Science and Technology|34|not found|not found
+Yuanqiang Huang|Beihang University Beijing|13|not found|not found
+Qiao Yan|Shenzhen University|18|not found|not found
+Jinbei Zhang|Shanghai Jiao Tong University|35|not found|not found
+Xingshe Zhou|School of Computer Science Northwestern Poly technical University|216|not found|not found
+Zhaolong Ning|Dalian University of Technology|42|169|8
+Yun Ma|Peking University|29|not found|not found
+Jian-Huang Lai|Sun Yat-Sen University|192|2,220|24
+Tao Wang|National University of Defense Technology|669|81|5
+Ting Liu|Xi'an Jiaotong University|368|185|8
+Yutian Liu|Shandong University|not found|1,190|17
+Yaoxue Zhang|Central South University|91|1,112|19
+Yijia Cao|University of Adelaide|34|717|12
+Yang Liu|Xi'an Jiaotong University|1003|51|3
+Ying Li|Shandong University|761|2,594|29
+Wei Zhou|Hunan Agricultural University|453|not found|not found
+Jin Li|Zhejiang Gongshang University|258|not found|not found
+Kai Xing|University of Science and Technology of China|81|not found|not found
+Xu Chen|Sun Yat-sen University|270|not found|not found
+Ye Yuan|Northeastern University|139|not found|not found
+Jian Shen|Nanjing University of Information Science & Technology|154|201|6
+Yi Wang|Huazhong University of Science and Technology|620|330|11
+Zheng Yang|Tsinghua University|189|not found|not found
+Xinping Guan|Shanghai Jiao Tong University|297|not found|not found
+Maotian Zhang|PLA University of Science and Technology|13|not found|not found
+Xiang Wang|University of Electronic Science and Technology of China|196|not found|not found
+Maoguo Gong|Xidian University|171|not found|not found
+Jiapeng Xiu|Beijing University of Posts and Telecommunications|17|not found|not found
+Kai Zhang|Wuhan University of Technology|324|not found|not found
+Yanmin Zhu|Shanghai Jiao Tong University|190|2,061|24
+Zhaohui Wu|Zhejiang University|422|not found|not found
+Wei Zhang|Zhengzhou University|870|not found|not found
+Yin Zhang|Zhongnan University of Economics and Law|336|676|13
+Qin Liu|Tongji University|185|not found|not found
+Mingsong Chen|East China Normal University|43|377|9
+Yang Yang|Peking University|54|10|1
+Jiadi Yu|Shanghai Jiao Tong University|68|377|10
+Xin Su|Tsinghua University|152|not found|not found
+Zhenyu Wu|Beijing University of Posts and Telecommunications|87|38|4
+Shibo He|Zhejiang University|67|not found|not found
+Bo Yang|The Second Xiangya Hospital of Central South University|17|3,623|28
+Xuanzhe Liu|Peking University|70|not found|not found
+Liang Liu|S.A. Mithra Pharmaceuticals ®|303|809|14
+Qian Wang|Wuhan University|514|not found|not found
+Jian An|Xi'an Jiaotong University|16|45|4
+Yunhao Liu Xue|Tsinghua University|252|not found|not found
+Bing Xie|Peking University|95|not found|not found
+Aobing Sun|Henan University of Technology|16|not found|not found
+Xiaoping Li|Southeast University|152|not found|not found
+Song Li|Nanjing University of Aeronautics and Astronautics|89|not found|not found
+Bo Zhang|Beijing University of Posts and Telecommunications|800|not found|not found
+Kenli Li|Hunan University|207|4,113|32
+Zhiyong Yu|Fuzhou University|45|300|9
+Jianhua Li|Icahn School of Medicine at Mount Sinai|231|1,259|21
+Fei Jiang|Peking University|29|15|2
+Fu Xiao|Nanjing University of Posts and Telecommunications|43|not found|not found
+Shilin Zhou|National University of Defense Technology|184|133|5
+Junzhou Luo|Southeast University|242|not found|not found
+Ying Liu|Beijing Forestry University|563|86|5
+Yunhao Liu|Tsinghua University|419|not found|not found
+Jing Yan|Yanshan University|45|not found|not found
+Jun Wu|Beijing University of Posts and Telecommunications|412|not found|not found
+Liang Zhou|Nanjing University of Posts and Telecommunications|248|not found|not found
+Jing Liu|Chinese Academy of Sciences|813|4,363|35
+Ying Chen|Tianjin University of Technology|484|not found|not found
+Xin Zhang|Guangdong University of Technology|463|not found|not found
+Min Chen|Huazhong University of Science and Technology|683|not found|not found
+Yuan Liu|Jiangnan University|280|83|6
+Sen Su|Beijing University of Posts and Telecommunications|97|not found|not found
+Yunwei Dong|Northwestern Polytechnical University|40|not found|not found
+Yan Li|Air Force Engineering University|700|not found|not found
+Ru Wang|School of Computer Science Northwestern Poly technical University|25|not found|not found
+Xiaoyan Zhu|National Key Laboratory of Integrated Services Networks Xidian University|229|not found|not found
+Jia Jia|Tsinghua University|109|317|10
+Yuying Wang|Northwestern Polytechnical University|38|14|2
+Cheng Wang|Huazhong University of Science and Technology|466|not found|not found
+Xiangqun Chen|Peking University|48|not found|not found
+Jin Wang|National University of Defense Technology|501|not found|not found
+Gang Huang|Southeast University (China)|147|1,867|23
+Xiaolong Xu|Beijing Union University|37|not found|not found
+Nenghai Yu|University of Science and Technology of China|199|not found|not found
+Sancheng Peng|Guangdong University of Foreign Studies|24|not found|not found
+Kun Xie|Hunan University|58|222|8
+Xiaohua Jia|City University of Hong Kong|351|not found|not found
+Liang Chen|Zhejiang University|482|not found|not found
+Ming Wang|Wuhan University|103|not found|not found
+Cong Liu|Technische Universiteit Eindhoven|41|121|7
+Jie Lin|Xi'an Jiaotong University|164|107|5
+Liusheng Huang|University of Science and Technology of China|308|not found|not found
+Xinyu Wang|Zhejiang University|150|not found|not found
+Fan Wu|University of Electronic Science and Technology of China|266|not found|not found
+Song Deng|Nanjing University of Post and Telecommunications|482|not found|not found
+Jian Wu|Zhejiang University|434|817|15
+Pengcheng Zhang|Hohai University|52|231|9
+Ying Yang|Yunnan University of Finance and Economics|221|not found|not found
+Qi Wang|Northwestern Polytechnical University|37|not found|not found
+Keliang Zhou|Jiangxi University of Science and Technology|not found|not found|not found
+Shangguang Wang|Beijing University of Posts and Telecommunications|91|818|16
+Wendong Wang|Beijing University of Posts and Telecommunications|104|1,362|19
+Feng Xia|Dalian University of Technology|239|2,373|24
+Li Pan|Shanghai Jiao Tong University|80|112|6
+Ke Xu|Nanjing University|482|2,261|23
+Li Wang|Beijing University of Posts and Telecommunications|534|386|10
+Xianghan Zheng|Fuzhou University|35|not found|not found
+Debiao He|Wuhan University|120|not found|not found
+Zhongzhi Luan|Beihang University (BUAA)|67|207|8
+Qichao Xu|Shanghai University|15|310|8
+Zhihua Wang|Tsinghua University|283|2,654|21
+Yuliang Shi|Shandong University|51|not found|not found
+Xiu Li|Tsinghua University|2|not found|not found
+C. L. Philip Chen|IEEE Systems, Man, and Cybernetics Society|272|10,689|49
+Zhen Li|Beijing University of Posts and Telecommunications|62|not found|not found
+Chao Li|Beihang University (BUAA)|497|251|9
+Hengchang Liu|University of Science and Technology of China|55|not found|not found
+Tao Jiang|Huazhong University of Science & Technology|181|not found|not found
+Chuan Wu|The University of Hong Kong|149|not found|not found
+Lei Shu|Guangdong University of Petrochemical Technology|333|not found|not found
+Weiwei Wu|Southeast University (China)|47|60|4
+Jie Peng|School of Telecommunication Engineering Xi'an University|42|not found|not found
+Yan Huo|Beijing Jiaotong University|70|294|8
+Mo Li|Tsinghua University|171|not found|not found
+Jiwei Huang|Beijing University of Posts and Telecommunications|35|not found|not found
+Lin Zhang|Fujian Normal University|353|4,840|29
+Yong Zhao|University of Electronic Science and Technology of China|245|not found|not found
+Yanhua Du|University of Science and Technology Beijing|17|not found|not found
+Guiling Wang|North China University of Technology|74|207|7
+Min Liu|Tongji University|326|365|11
+Jie Tang|Tsinghua University|379|6,500|40
+Qiying Cao|College of Computer Science and Technology Donghu University Shanghai|25|not found|not found
+Zheli Liu|Nankai University|36|274|11
+Hao Li|Communication University of China|505|not found|not found
+Wei Chen|Tsinghua University|809|442|11
+Feng Tan|Technical Institute of Physics and Chemistry|35|790|17
+Guoqi Xie|Hunan University|12|64|5
+Yong Sun|Nanjing University of Aeronautics & Astronautics|140|58|4
+Chao Chen|Chongqing University|367|not found|not found
+Ruhong Cheng|University of Science and Technology of China|2|not found|not found
+Bofeng Zhang|Shanghai University|71|not found|not found
+Liangmin Wang|Jiangsu University|33|not found|not found
+Qiang Wang|BeiHang University|437|not found|not found
+Qiang Yang|Zhejiang University|28|not found|not found
+Mingjun Xiao|University of Science and Technology of China|52|501|10
+Hannan Bin Liaqat|Dalian University of Technology|9|not found|not found
+Yong Li|Tsinghua University|440|2,129|23
+Keman Huang|Tianjin University|31|177|8
+Jianfeng Ma|Lanzhou University of Technology|308|1,593|20
+Mingdong Tang|Hunan University of Science and Technology|55|not found|not found
+Li Yu|Zhejiang University of Technology|297|not found|not found
+Xiaofeng Chen|Xidian University|197|2,344|27
+Minyi Guo|Shanghai Jiao Tong University|343|not found|not found
+Shijian Li|Zhejiang University|59|1,196|17
+Tao Zhang|Northwestern Polytechnical University|712|73|5
+Meng Wang|University of South China|543|6,350|42
+Lu Wang|Tianjin University of Technology and Education|341|not found|not found
+Chaocan Xiang|Chongqing Logistics Engineering University|18|26|3
+Jianwei Yin|Zhejiang University|120|not found|not found
+Zhou Su|Shanghai University|75|not found|not found
+Xue Wang|Hebei University of Engineering|308|2,472|26
+Peng Zhang|Xi’an Jiaotong University|21|not found|not found
+Yu Zhang|Nankai University|1006|6|1
+Dong Zhao|Beijing University of Posts and Telecommunications|69|386|9
+Yang Li|Tsinghua University|752|not found|not found
+Changjia Chen|Beijing Jiaotong University|73|not found|not found
+Zhi Wang|Tsinghua University|67|not found|not found
+Deying Li|Renmin University of China|156|not found|not found
+Yufeng Wang|Nanjing University of Posts and Telecommunications|148|429|11
+Hongbin Sun|Tsinghua University|75|3,003|24
+Lei Yang|South China University of Technology|24|not found|not found
+Jiannong Cao|The Hong Kong Polytechnic University|596|not found|not found
+Xiao Sun|Hefei University of Technology|88|32|3
+Bo Fan|University of Electronic Science and Technology of China|59|not found|not found
+Changjun Jiang|Tongji University|192|not found|not found
+Hui Peng|Renmin University of China|101|21|3
+Kai Wang|Tsinghua University|422|53|4
+Xiaofei Xu|University of Electronic Science and Technology of China|188|not found|not found
+Fei Tao|Beihang University (BUAA)|46|3,446|34
+Hao Hu|Nanjing University|163|not found|not found
+Jin Xu|Peking University|230|not found|not found
+Yu Jiang|Tsinghua University|157|128|6
+Fei Hao|Huazhong University of Science and Technology|48|172|9
+Yanglan Gan|Donghua University|21|109|7
+Hui Tian|National Huaqiao University|270|261|9
+Lei Wang|Nanjing University of Posts and Telecommunications|818|not found|not found
+Zhen Xiao|Peking University|51|not found|not found
+Xiumin Wang|South China University of Technology|56|353|10
+Bin Li|Wuhan University of Technology|918|3,751|32
+Wei Song|Nanjing University of Science and Technology|29|175|7
+Yushun Fan|Tsinghua University|101|not found|not found
+Bo Gao|Central University of Finance and Economics; Henan Institute of Engineering|131|not found|not found
+Jian Wang|Tsinghua University|892|not found|not found
+Yao Guo|Peking University|74|476|12
+Feng Zhang|Sun Yat-Sen University|279|157|6
+Lichen Zhang|Faculty of Computer Science and Technology Guangdong University of Technology Guangzhou 200062|66|not found|not found
+Yu Wang|Xidian University|428|not found|not found
+Jinhua Zheng|Xiangtan University|46|not found|not found
+Yihong Hu|Beijing University of Posts and Telecommunications|26|not found|not found
+Tie Qiu|Dalian University of Technology|55|301|10
+Junliang Chen|Beijing University of Posts and Telecommunications|210|not found|not found
+Wanchun Dou|Nanjing University|112|745|14
+Wei Wang|Huazhong University of Science and Technology|61|not found|not found
+Fan Jiang|University of Science and Technology of China|134|82|5
+Laurence T. Yang|Huazhong University of Science and Technology|625|not found|not found
+Yingying Guo|Beijing University of Posts and Telecommunications|6|not found|not found
+Zhiyong Feng|Tianjin University|353|479|10
+Bo Li|The Hong Kong University of Science and Technology|619|10,727|50
+Qi Qi|Beijing University of Posts and Telecommunications|84|1,290|18
+Liang Wang|Beijing Jiaotong University|164|not found|not found
+Xinyi Huang|Fujian Normal University|138|1,881|26
+Wei Yang|University of Science and Technology of China|499|not found|not found
+Dan Feng|Huazhong University of Science and Technology|305|not found|not found
+Ling Lyu|Shanghai Jiao Tong University|4|1|1
+Huihui Chen|Northwestern Polytechnical University|22|87|5
+Shuai Liu|National University of Defense Technology|11|not found|not found
+Jingyu Wang|Beijing University of Posts and Telecommunications|90|310|10
+Longtao Huang|Chinese Academy of Sciences|13|197|8
+Chao Yang|Hubei University|101|not found|not found
+Junjie Ni|Beihang University Beijing|3|not found|not found
+Lan Zhang|Tsinghua University|104|not found|not found
+Jie Li|University College London|730|148|5
+Wenbin Lin|Southwest Jiaotong University|not found|330|10
+Kun Wang|Nanjing University of Posts and Telecommunications|323|281|10
+Edwin Sha|Chongqing University|120|not found|not found
+Yuefeng Ji|Beijing University of Posts and Telecommunications|95|not found|not found
+Chen Li|Beijing University of Aeronautics and Astronautics|4|not found|not found
+Chengze Li|Beijing University of Posts and Telecommunications|6|not found|not found
+Chunhong Zhang|Beijing University of Posts and Telecommunication|61|not found|not found
+Jie Zhang|Chinese Academy of Sciences|597|46|4
+Kebin Liu|The Hong Kong University of Science and Technology|68|903|15
+Wenbo Wang|Beijing University of Posts and Telecommunications|417|not found|not found
+Hui Zhang|Beihang University (BUAA)|650|303|9
+Jie Wu|Fudan University|205|not found|not found
+Yasha Wang|Peking University|47|not found|not found
+Jiajun Sun|Beijing University of Posts and Telecommunications|10|not found|not found
+Huaimin Wang|National University of Defense Technology|164|not found|not found
+Jianwei Yang|Xi’an Jiaotong University|55|not found|not found
+Victor O. K. Li|The University of Hong Kong|414|not found|not found
+Yong Zhang|China University of Mining and Technology|632|not found|not found
+Didi Liu|School of Telecommunication Engineering Xi'an University|3|not found|not found
+Jianwei Niu|Beihang University (BUAA)|168|1,850|22
+Wenzhong Li|Nanjing University|76|485|13
+Shuyuan Jin|Sun Yat-sen University|26|not found|not found
+Qi Li|Beijing University of Posts and Telecommunications|495|not found|not found
+Xiaolin Zheng|Zhejiang University|not found|not found|not found
+Ming Xu|National University of Defense Technology|266|not found|not found
+Xianghui Cao|Illinois Institute of Technology|56|956|14
+Yaohui Jin|Shanghai Jiao Tong University|51|693|14
+Jingdong Xu|Nankai University|45|295|9
+Hong Wen|University of Texas MD Anderson Cancer Center|74|923|14
+Chen Liu|EDHEC-Risk Institute|252|33|4
+Jiafu Wan|IEEE Biometrics Council|77|603|13
+Xiao Chen|Jiangsu University|182|not found|not found
+Dong Yue|Nanjing University of Posts and Telecommunications|43|not found|not found
+Youda Liu|Tsinghua University|46|not found|not found
+Lei Chen|The Hong Kong University of Science and Technology|349|6,190|40
+Behrouz Jedari|Dalian University of Technology|12|83|5
+Yanheng Wei|Guilin University of Electronic Technology|3|not found|not found
+Yan Sun|Beijing University of Posts and Telecommunications|290|not found|not found
+Zheng Xu|Zheng Xu is with The Third Research Institute of the Ministry of Public Security and Tsinghua University|66|1,091|19
+Jun Du|PLA University of Science & Technology|139|not found|not found
+Daojing He|East China Normal University and State Key Laboratory of Power Transmission Equipment & System Security and New Technology|54|not found|not found
+Wanyuan Wang|Nanjing University of Aeronautics and Astronautics|9|not found|not found
+Yang Xiang|Beihang University|441|not found|not found
+Li Liu|National University of Singapore|313|645|14
+Jianxin Liao|Beijing University of Posts and Telecommunications|104|not found|not found
+Panlong Yang|Nanjing University|121|521|12
+Xin He|Henan University|276|not found|not found
+Jian Huang|China University of Geosciences|317|not found|not found
+Xuanjia Qiu|The University of Hong Kong|12|182|6
+Hao Lin|Jiangnan University|77|not found|not found
+Ye Tian|Beijing University of Posts and Telecommunications|208|47|3
+Bin Guo|Northwestern Polytechnical University|193|1,294|18
+Shujun Xin|Tsinghua University|4|not found|not found
+Guihai Chen|Shanghai Jiao Tong University|317|not found|not found
+Lei Deng|Northwestern Polytechnical University|91|19|2
+Jianyong Chen|Shenzhen University|54|597|15
+Zhiguo Shi|Zhejiang University|62|951|19
+Lingjun Pu|Nankai University|8|not found|not found
+Yichuan Jiang|Nanjing University of Aeronautics and Astronautics|59|not found|not found
+Ahmedin Mohammed Ahmed|Wollo University|15|96|6
+Wenbin Dai|Shanghai Jiao Tong University|301|170|9
+Yan Liu|Northwestern Polytechnical University|11|not found|not found
+Cailian Chen|Shanghai Jiao Tong University|126|961|16
+Junyi Wang|Guilin University of Electronic Technology|82|not found|not found
+Wenle Wu|Northwestern Polytechnical University|8|not found|not found
+Fangchun Yang|Beijing University of Posts and Telecommunications|137|not found|not found
+Yu Liu|Beihang University|691|not found|not found
+Jiguo Li|Hohai University|70|630|14
+Min Zhao|Chongqing University|136|not found|not found
+Xiaolin Gui|Shanghai Jiao Tong University|62|270|8
+Xing Zhang|Chinese Academy of Medical Sciences|274|1,836|22
+Yatao Li|Beijing University of Posts and Telecommunications|8|not found|not found
+Yanan Wang|Information and Electrical Engineering Shanghai Jiao Tong University Shanghai|not found|not found|not found
+Ling Shi|Hunan University|132|1,799|23
+Xirong Que|Beijing University of Posts and Telecommunications|30|247|9
+Wei Li|Zhejiang University|963|not found|not found
+Yu Hua|Tsinghua University|97|527|13
+Hanhua Chen|Huazhong University of Science and Technology|53|not found|not found
+Guobing Zou|Shanghai University|26|129|6
+Xiaoming Chen|Nanjing University of Aeronautics and Astronautics|221|not found|not found
+Supeng Leng|University of Electronic Science and Technology of China|87|not found|not found
+Bin Liu|Department of System Engineering Beihang University Beijing|443|not found|not found
+Zhiqiang Zhan|Beijing University of Posts and Telecommunications|8|not found|not found
+Shuang Ding|Henan University|5|3|1
+Qiyi Han|University of Electronic Science and Technology of China|8|9|2
+Anfeng Liu|Central South University|72|not found|not found
+Siqian Yang|Tongji University|6|not found|not found
+Di Li|South China University of Technology|78|2,033|19
+Luoyi Fu|Shanghai Jiao Tong University|46|not found|not found
+Li Xu|Harbin Engineering University|406|not found|not found
+Richang Hong|Hefei University of Technology|131|3,605|25
+Tianbo Lu|Beijing University of Posts and Telecommunications|15|not found|not found
+Hui Zhao|Pace University|2|320|11
+Guowei Wu|Dalian University of Technology|84|not found|not found
+Yan Zhang|Wuhan University|649|not found|not found
+Daqing Zhang|Peking University|213|not found|not found
+Victor O.K. Li|The University of Hong Kong|543|not found|not found
+Tong Wang|Beijing University of Posts and Telecommunications|184|not found|not found
+Yuezhi Zhou|Tsinghua University|61|not found|not found
+Qibo Sun|Beijing University of Posts and Telecommunications|54|700|15
+Haibin Yu|Hangzhou Dianzi University|16|45|4
+Zhengqiu Yang|Beijing University of Posts and Telecommunications|21|not found|not found
+He Jiang|Dalian University of Technology|103|not found|not found
+Kaiyu Wan|Xi'an Jiaotong-Liverpool University|45|248|8
+Yan Wang|Shanghai Jiao Tong University|5|not found|not found
+Xin Peng|Fudan University|192|not found|not found
+Haopeng Chen|Shanghai Jiao Tong University|49|173|8
+Shan Liu|Communication University of China|88|not found|not found
+Lin Yao|Dalian University of Technology|87|not found|not found
+Daqiang Zhang|Tongji University|102|not found|not found
+Wei Zhao|University of Macau|209|not found|not found
+Yong Wang|Shanghai Jiao Tong University|871|not found|not found
+Tao Jing|Beijing Jiaotong University|79|386|10
+Ke Li|Beijing Union University|233|not found|not found
+Bin Xu|Nanjing University of Posts and Telecommunications|123|not found|not found
+Xiang-Yang Li|University of Science and Technology of China|442|not found|not found
+Jun Zhang|Dalian University of Technology|865|not found|not found
+Yang Chen|Duke University|346|512|13
+Zhongcheng Li|Chinese Academy of Sciences|131|781|14
+Yanbo Han|North China University of Technology|102|not found|not found
+Yang Zhang|Beijing University of Posts and Telecommunications|34|149|7
+Yibo Wang|Shanghai University|22|not found|not found
+Hui Liu|South China Normal University|556|not found|not found
+Jiangwei Wu|Tsinghua University|27|10|1
+Hao Sun|National University of Defense Technology|197|53|4
+Cong Wang|City University of Hong Kong|347|5,820|23
+Di Wu|The University of Hong Kong|62|not found|not found
+Jing Li|University of Science and Technology of China|1015|not found|not found
+Zheng Yan|Xidian University|168|1,131|16
+Bo Shen|Northwestern Polytechnical University|137|4|1
+Haiyan Wang|Beijing Forestry University|124|not found|not found
+Hai Jin|Huazhong University of Science and Technology|908|4,653|34
+Zhangbing Zhou|ZhangBing Zhou is with the China University of Geosciences|103|not found|not found
+Haowen Liu|Wuhan University|not found|not found|not found
+Jianxun Liu|Hunan University of Science and Technology|118|816|13
+Xiaoliang Wang|Nanjing University|68|not found|not found
+Jicheng Wang|Tongji University|27|not found|not found
+Shenlong Huangfu|Northwestern Polytechnical University|5|not found|not found
+Shuyu Li|Shaanxi Normal University|22|not found|not found
+Bin Wu|Tianjin University|490|641|14
+Jinlong Wang|Tsinghua University|135|not found|not found
+Pengfei Liu|University of Regina|69|120|5
+Haibin Cai|East China Normal University|39|not found|not found
+Junwei Cao|Tsinghua University|58|4,256|32
+Zhong Li|Donghua University|108|not found|not found
+Chunxiao Jiang|Tsinghua University|141|1,296|18
+Qinglai Guo|Tsinghua University|12|805|16
+Zhibo Wang|Aston University|77|381|12
+Wei Wei|Huazhong University of Science and Technology|473|93|5
+Buqing Cao|Hunan University of Science and Technology|28|not found|not found
+Juncheng Zhang|Beihang University Beijing|2|not found|not found
+Zhen Zhang|Jinan University (Guangzhou, China)|304|54|4
+Xinyu Yang|Xi’an Jiaotong University|93|not found|not found
+Ka Lok Man|Xi'an Jiaotong-Liverpool University|77|not found|not found
+Yuan Zhang|University of Electronic Science and Technology of China|319|19|3
+Jianxin Wu|Nanjing University|119|not found|not found
+Fanliang Bu|Chinese People's Public Security University|402|not found|not found
+Jun Li|University of Science and Technology of China|27|not found|not found
+Zhao Li|Beijing University of Posts and Telecommunications|147|not found|not found
+Shengzhong Feng|Chinese Academy of Sciences|72|932|17
+Wei Jiang|Tsinghua University|446|not found|not found
+Guangjie Han|Hohai University|128|1,628|20
+Nan Li|Chongqing Jiaotong University|300|not found|not found
+Lingyang Song|Peking University|276|not found|not found
+Keqin Li|Hunan University|332|not found|not found
+Wenyuan Xu|Zhejiang University|255|not found|not found
+Yi Zhang|Shanghai University|663|not found|not found
+Fei Wang|Beijing University of Chemical Technology|423|4,340|29
+Li Guo|Shanghai Jiao Tong University|155|1,917|21
+Guolin Niu|The University of Hong Kong|8|not found|not found
+Yi Liu|Peking University|608|not found|not found
+Zibin Zheng|Sun Yat-Sen University|120|3,042|30
+Guojun Wang|Central South University|301|not found|not found
+Guoru Ding|Southeast University (China)|57|600|13
+Chang-Dong Wang|Sun Yat-sen University|61|not found|not found
+Depei Qian|Xi'an Jiaotong University|193|551|12
+Guangli Yang|Shanghai University|2|240|9
+Bo Liu|Southwest University in Chongqing|372|40|3
+Hui Wang|Physics and Information Engineering Zhejiang Normal University Jinhua|609|not found|not found
+Xiangke Liao|National University of Defense Technology|115|not found|not found
+Senyuan Tan|Nanjing University|1|not found|not found
+Shiyong Wang|South China University of Technology|501|not found|not found
+Ke Zhang|University of Electronic Science and Technology of China|240|not found|not found
+Hao Wang|Hokkaido University|474|830|15
+Huansheng Ning|University of Science and Technology Beijing|44|not found|not found
+Xiaohua Tian|Shanghai Jiao Tong University|110|636|15
+Lei Bu|University of Kansas|39|176|8
+Wenjun Jiang|Central South University|19|not found|not found
+Li Zhang|Chongqing University of Posts and Telecommunications|966|not found|not found
+De-gan Zhang|Tsinghua University|26|560|11
+Chun Jason Xue|City University of Hong Kong|210|not found|not found
+Zhiwen Yu|Northwestern Polytechnical University|288|not found|not found
+Xinbing Wang|Shanghai Jiao Tong University|296|not found|not found
+Xiaoying Gan|Shanghai Jiao Tong University|92|465|12
+Qi Chen|Peking University|166|9|2
+Wenwu Zhu|Tsinghua University|210|not found|not found
+Peng Cheng|The University of Sheffield|255|6,212|38
+Feng Wang|Kunming University of Science and Technology|588|not found|not found
+Xiaoyong Li|Beijing University of Posts and Telecommunications|18|not found|not found
+Yinan Wang|Zhejiang University|813|not found|not found
+Zhikui Chen|Dalian University of Technology|65|368|10
+Huanxin Zou|National University of Defense Technology|18|not found|not found
+Li Li|Tsinghua University|704|1,438|17
+Lizhen Cui|Shandong University|87|not found|not found
+Minglu Li|Shanghai Jiao Tong University|357|4,218|31
+Lihui Lan|JiangSu University|1|not found|not found
+Bo Jiang|Beihang University|257|not found|not found
+Xin Wang|University of Science and Technology of China|887|not found|not found
+Kai Lei|Peking University|39|not found|not found
+Lei Yu|Chang'an university|163|not found|not found
+Jie Yang|Beijing University of Posts and Telecommunications|308|not found|not found
+Yuan He|Tsinghua University|105|1,338|18
+Lei Zhang|Beijing Information Science and Technology University|208|not found|not found
+Fei Song|Beijing Jiaotong University|92|93|5
+Hong Liu|Central South University|701|1,571|20
+Gang Yang|Northwestern Polytechnical University|135|16|2
+Chuang Lin|Tsinghua University|402|not found|not found
+Chao Song|University of Electronic Science and Technology of China|44|207|7
+Bo Cheng|Beijing University of Posts and Telecommunications|168|653|14
+Xiuzhen Chen|Information and Electrical Engineering Shanghai Jiao Tong University Shanghai|2|not found|not found
+Ting Li|Central South University|160|not found|not found
+Hongwei Li|University of Electronic Science and Technology of China|145|not found|not found
+Weili Wu|Taiyuan University of Technology|261|not found|not found
+Haiyang Wang|Shanghai Jiao Tong University|147|0|9
+Shuiguang Deng|Zhejiang University|4|963|19
+Yi Long|The University of Hong Kong|23|not found|not found
+Yishuai Chen|Beijing Jiaotong University|18|113|6
+Qihui Wu|PLA University of Science and Technology|112|1,658|19
+Jiming Chen|University of Electronic Science and Technology of China|288|5,364|41
+Renfa Li|Hunan University|119|not found|not found
+Huadong Ma|Beijing University of Posts and Telecommunications|240|not found|not found
+Deyi Li|Beihang University|92|not found|not found
+Rong Yu|Guangdong University of Technology and Guangdong Key Laboratory of IoT Information Technology|95|not found|not found
+Xinyao Sun|Tsinghua University Beijing|not found|not found|not found
+Zhenqiang Mi|University of Science and Technology Beijing|27|126|7
+Hui Li|Xidian University|192|1,383|17
+Chunming Hu|Beihang University|61|not found|not found

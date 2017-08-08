@@ -1,0 +1,800 @@
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=mobile application&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=crowd sourcing&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=service computing&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=cloud computing&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=crowd computing&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=social network&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=crowd sensing&srt=_score&start=1980
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=0
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=20
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=40
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=60
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=80
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=100
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=120
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=140
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=160
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=180
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=200
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=220
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=240
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=260
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=280
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=300
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=320
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=340
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=360
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=380
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=400
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=420
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=440
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=460
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=480
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=500
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=520
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=540
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=560
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=580
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=600
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=620
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=640
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=660
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=680
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=700
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=720
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=740
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=760
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=780
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=800
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=820
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=840
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=860
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=880
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=900
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=920
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=940
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=960
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=980
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1000
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1020
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1040
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1060
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1080
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1100
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1120
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1140
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1160
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1180
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1200
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1220
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1240
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1260
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1280
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1300
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1320
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1340
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1360
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1380
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1400
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1420
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1440
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1460
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1480
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1500
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1520
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1540
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1560
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1580
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1600
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1620
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1640
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1660
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1680
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1700
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1720
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1740
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1760
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1780
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1800
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1820
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1840
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1860
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1880
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1900
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1920
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1940
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1960
+http://dl.acm.org/results.cfm?query=cyber physical system&srt=_score&start=1980

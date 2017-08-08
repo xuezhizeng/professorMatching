@@ -1,0 +1,206 @@
+Songling Huang|Tsinghua University!!!Research on the Architecture and its Implementation for Instrumentation and Measurement Cloud
+Jianhua Gong|None!!!Modeling for Urban Crowd Daily Behavior Based on Human-Earth Relationship*@*Modeling for Urban Crowd Daily Behavior Based on Human-Earth Relationship
+Qiao Liu|None!!!Fast Community Discovery and Its Evolution Tracking in Time-Evolving Social Networks
+Xin Jin|Communication University of China!!!Research on visualization of communication network in social topic
+Xudong Ni|None!!!On crowd-retweeting spamming campaign in social networks
+Ying-wu Chen|National University of Defence Technology Changsha!!!Bibliometric and social network analysis of the SoS field
+Zhiqiang Zhan|Beijing University of Posts and Telecommunications!!!An optimal infrastructure design method of cloud computing services from the BDIM perspective
+Hong Liu|Engineering Institute!!!Cyberlogic Paves the Way From Cyber Philosophy to Cyber Science
+Yufei Ge|China University of Petroleum!!!Collaborative intrusion detection as a service in cloud computing environment
+Chuangxin Guo|Zhejiang University!!!Improved percolation theory incorporating power flow analysis to model cascading failures in Cyber-Physical Power System*@*Cyber-Physical Power System (CPPS) reliability assessment considering cyber attacks against monitoring functions
+Gong Xiong|None!!!Modeling and Simulating CAN-Based Cyber-Physical Systems in Modelica
+Huaibo Sun|None!!!Privacy-Preserving Recoverable Photo Sharing in Mobile Social Network
+Fang Bin-Xing|None!!!Research of User Request Algorithm in Mobile Cloud Computing Based on Improved FCM and Collaborative Filtering*@*Resource Scheduling Based on Improved FCM Algorithm for Mobile Cloud Computing
+Zhenjun Du|Dalian Maritime University!!!A secure cross-platform mobile IM system for enterprise applications
+Qian-mu Li|None!!!A Viewpoint on Location-Based Mobile Apps Testing
+Jingyu Wang|Beijing University of Posts and Telecommunications!!!Dynamic resource orchestration for multi-task application in heterogeneous mobile cloud computing*@*OMI-DL: An Ontology Matching Framework
+Shizhen Huang|Fuzhou University!!!Design of embedded parking management system
+Jiyan Wu|None!!!An UIMA-Based Service Recommendation Approach
+Qingwei Liu|None!!!Joint Optimal Congestion Control and Channel Assignment for Multi-Radio Multi-Channel Wireless Networks in Cyber-Physical Systems
+Chuan Luo|None!!!Time Critical Disinformation Influence Minimization in Online Social Networks
+Cong Wang|Northeastern University - Qinhuangdao Campus!!!An Immunization Framework for Social Networks through Big Data Based Influence Modeling
+Zhenmin Tang|None!!!Efficient People Counting with Limited Manual Interferences
+B. Y. Wu|City University of Hong Kong!!!High Current Density induced Damage Mechanisms in Electronic Solder Joints: A State-of-the-Art Review
+Xi-Tao Guo|None!!!A slot antenna with multiple steps for mobile phone applications
+Ruirui Zhang|China Electric Power Research Institute - China!!!Research on advanced sensor network based Cyber-Physical System for the Smart Grid
+Zhiyong Bu|Shanghai Institute of Microsystem and Information Technology!!!Distributed spectrum sensing based on the Gabor time-frequency analysis for cognitive networks*@*Distributed spectrum sensing based on the Gabor time-frequency analysis for cognitive networks
+Junzhou Luo|Southeast University!!!Computing service Skyeube for web service selection*@*QoS-Resource Graph Model for Web Service Composition in Service Oriented Computing*@*Providing Service Continuity in Clouds under Power Outage*@*Formal analysis of anonymity based on strand space model*@*An evidence theory based anonymity metrics
+Guoping Long|None!!!Detect Similar Mobile Applications with Transfer Learning
+Jiayu Ren|None!!!Research on Fault Diagnosis of Photovoltaic Power Generation System Based on Cloud Computing Data
+Chengrong Wu|None!!!PDSDN: A Policy-Driven SDN Controller Improving Scheme for Multi-tenant Cloud Datacenter Environments
+Zheng Yuan|None!!!MEFTTD: A Parallel Awareness Scheduler
+Fengli Zhang|None!!!Modeling the spreading behavior of passive worms in mobile social networks
+Xinkun Li|Beihang University!!!Cyber-physical avionics systems and its reliability evaluation
+Qianni Deng|None!!!How Your Friends Influence You: Quantifying Pairwise Influences on Twitter
+Chuan Wu|The University of Hong Kong!!!Strategies of collaboration in multi-swarm peer-to-peer content distribution
+Chen Hongsong|University of Science and Technology Beijing!!!Attack tree analysis of Man in the Cloud attacks on client device synchronization in cloud computing
+Zhihua Wang|Tsinghua University!!!A high-performance low-power SoC for mobile one-time password applications
+Guangming Yang|Northeastern University!!!ECRModel: An Elastic Collision-Based Rumor-Propagation Model in Online Social Networks
+Chao Peng|Software Engineering Institute!!!Design and analysis of software defined Vehicular Cyber Physical Systems
+Xuefeng Liu|Xidian University!!!Publicly Verifiable Inner Product Evaluation over Outsourced Data Streams under Multiple Keys
+Sai Liang|Harbin Institute of Technology!!!Research on microblogging original posts release behavior based on panel data of mobile applications
+Feng Tan|Institute of chemical defence People Liberation Army!!!Cyber-Physical System security studies and research
+Zhang Jiajin|Yunnan Agricultural University!!!A social networks integrated sensor platform for precision agriculture
+Zhang Zhang|None!!!Lynn: A Multi-dimensional Dynamic Resource Management System for Distributed Applications in Clouds
+Khalid Rafique|Beijing University of Posts and Telecommunications!!!Mobile cloud computing as future for mobile applications - Implementation methods and challenging issues
+Liang Hua|None!!!PLocShare: A privacy-preserving location sharing scheme in mobile social network
+Zhanpeng Fang|Tsinghua University!!!Learning triadic influence in large social networks
+Shaoyong Guo|None!!!Multi-devices composition and maintenance mechanism in mobile social network
+Lizhen Wang|Yunnan University!!!SQNR: A System for Querying Nodes and relations in multi-relational social networks
+Qiang Wang|None!!!Discrete Hybrid Automata for Safe Cyber-physical System: An Astronautic Case Study*@*Behavior Modeling of Cyber-physical System Based on Discrete Hybrid Automata
+Junjie Hu|None!!!Exploiting homophily-based implicit social network to improve recommendation performance
+Changsong Yang|None!!!General Construction for the Resources Information Library of Shaanxi Folk Culture and Art
+Shubo Chen|None!!!Influence Maximization on Signed Social Networks with Integrated PageRank
+Wei Xu|Renmin University of China!!!Customer-generated content in company social media platform: How social network works?
+Wenbo Zhang|Institute of Software!!!FD4C: Automatic Fault Diagnosis Framework for Web Applications in Cloud Computing
+Dongbin Yan|None!!!Relational Similarity Measurement between Word-pairs Using Multi-Task Lasso
+Zhong Li|Donghua University!!!Modeling Data Transport Capacity of Mobile Networks for Mobile Social Services
+Wei-neng Chen|Sun Yat-sen University!!!Industry 4.0 with cyber-physical integration: A design and manufacture perspective
+Cuili Yao|Dalian University of Technology!!!Multi-label classification methods for green computing and application for mobile medical recommendations
+Chen Ming-cai|Soochow University!!!A model for vehicular Cyber-Physical System based on extended hybrid automaton
+Qitao Mu|University of Science and Technology Beijing!!!Top Challenges for Smart Worlds: A Report on the Top10Cs Forum*@*Top Challenges for Smart Worlds: A Report on the Top10Cs Forum
+Gang Liu|Xi'an Research Institute of High-tech!!!Varying gain MPC for consensus tracking with application to formation control of omnidirectional mobile robots
+Baocai Yin|None!!!Comparision of Real-Time Crowd Simulation Methods Based on Parallel Architecture
+Dongyun An|None!!!Gaussian Mixture Model Based Interest Prediction In Social Networks
+H. S. Li|Jiangxi Province Electric Power Research Institute!!!Non-dominated sorting differential evolution algorithm for multi-objective optimal integrated generation bidding and scheduling
+Yue Wang|None!!!Entropy-Based Service Selection with Uncertain QoS for Mobile Cloud Computing
+Xiao Liang|Global Energy Interconnection Research Institute!!!Cyber attacks in cyber-physical power systems: A case study with GPRS-based SCADA systems
+Ke Jia|None!!!Context-aware recommender systems in mobile applications
+Ru Zhang|Harbin University of Commerce!!!An improved algorithm for community discovery in social networks based on label propagation
+Yuanyuan Qiao|Beijing University of Posts and Telecommunications!!!FLAS: Traffic analysis of emerging applications on Mobile Internet using cloud computing tools
+Xiao-hua Meng|None!!!A Framework for Service Discovery in Pervasive Computing
+Shazhou Yang|National University of Defense Technology!!!eStor: Energy efficient and resilient data center storage
+Li-ying Ding|None!!!The Implementation and Application of Mobile Online Games in China: A Marketing Perspective
+Zhigang Feng|None!!!xFace: A Lightweight Web Application Engine on Multiple Mobile Platforms
+Ming Zeng|University of Science and Technology Beijing!!!Recovery strategies for service composition in dynamic network
+Fangyuan Hou|Qingdao Technological University!!!Design of false data injection attacks for output tracking control of CARMA systems
+Xin Liu|China University of Petroleum!!!A decentralized and personalized spam filter based on social computing
+Xiaopeng Lin|Beijing University of Posts and Telecommunications!!!Joint computation and communication resource allocation in mobile-edge cloud computing networks
+Wei Yang|School of Computer Science and Technology / Suzhou Institute for Advanced Study!!!Deadline-sensitive opportunistic utility-based routing in cyclic mobile social networks
+Guangyu Bai|Tianjin University of Science and Technology!!!Short term prediction of crowd density using v-SVR
+Yu Cao|None!!!A Novel and Reliable Workflow for Mobile Cloud Computing System Components Substitution
+Wei Zhang|Zhengzhou University!!!Qt-based mobile application GUI style for smart phone operating system
+Xianzhong Dai|Southeast University!!!Probabilistic terrain modeling of mobile robots for outdoor applications using a scanning laser
+Xinlong Zhao|None!!!Hybrid Intrusion Detection Method Based on Improved Bisecting K-Means in Cloud Computing
+Chongjing Sun|None!!!Privacy Preserving Social Network Publication against Mutual Friend Attacks
+Lei Hu|None!!!Probabilistic Snapshot Based Evolutionary Social Network Events Detection
+Ze-xing Chen|South China University of Technology!!!Characteristics and technical challenges in energy Internet cyber-physical system
+Mingjun Wang|Xidian University!!!Protect Pervasive Social Networking Based on Two-Dimensional Trust Levels
+Xiaowei Li|None!!!An effective community detection algorithm of the social networks
+Guozhen Tan|Dalian University of Technology!!!Energy aware cloud application management in private cloud data center
+Jun-fei Huang|Beijing University of Posts and Telecommunications!!!Remote mobile test system: a mobile phone cloud for application testing
+Zhiqiang Yao|Fujian Normal University!!!A Secure Data Self-Destructing Scheme in Cloud Computing
+Ming Ni|State Grid Electric Power Research Institute!!!Challenge and evolution of cyber attacks in Cyber Physical Power System
+Wenjun Li|None!!!Privacy Enhancing Framework on PaaS
+Laizhong Cui|None!!!SocialStreaming: P2P-assisted streaming in social networks
+Zhuobing Han|None!!!A Hierarchical Security-Auditing Methodology for Cloud Computing
+Yong Wang|None!!!Application of Virtual Reality Technology in the Maintenance Training System of Mobile Power Stations*@*Fault-Tolerance Research for Mobile Component Application Based on Checkpointing*@*A Method of Social Network Node Preference Evaluation Based on the Topology Potential*@*Modeling the spreading behavior of passive worms in mobile social networks
+Jinzhong Wang|Dalian University of Technology!!!A Hybrid Mechanism for Innovation Diffusion in Social Networks
+George Baciu|The Hong Kong Polytechnic University!!!Higher level segmentation: Detecting and grouping of invariant repetitive patterns
+Jianfeng Wang|Xi'an Microelectronics Technology Institute!!!A VM-friendly NIC architecture for cloud computing
+Zhigang Guo|Beijing University of Posts and Telecommunications!!!QoE analysis of NFV-based mobile edge computing video application
+Shuai Liu|National University of Defense Technology!!!Transfer Sparse Subspace Analysis for Unsupervised Cross-View Scene Model Adaptation*@*Transfer Sparse Subspace Analysis for Unsupervised Cross-View Scene Model Adaptation*@*Transfer Sparse Subspace Analysis for Unsupervised Cross-View Scene Model Adaptation
+Ao Chen|Harbin Institute of Technology!!!A data-driven KPI prediction method for vehicular cyber physical system
+Zhili Pei|Inner Mongolia University for the Nationalities!!!Researchment of cloud computing platform based software craftsmanship pattern
+Yuan Zhang|Fudan University!!!Identifying User-Input Privacy in Mobile Applications at a Large Scale
+Hai-Ning Liang|None!!!Building a smart laboratory environment at a university via a cyber-physical system
+Weizhong Zhao|None!!!Discovering Multiple Social Ties for Characterization of Individuals in Online Social Networks*@*Fast Information Retrieval and Social Network Mining via Cosine Similarity Upper Bound
+LiZhen Cui|None!!!Model for Hiding Data Relationships Based on Chunk-Confusion in Cloud Computing
+Hong Xue|Beijing Technology and Business University!!!Early warning decision-making system based on cloud computing technology for retail supply chain unconventional emergency
+Didi Liu|Xidian University!!!Adaptive application offloading decision and transmission scheduling for mobile cloud computing
+Jianwei Niu|Beihang University Beijing!!!Disseminating real-time messages in opportunistic mobile social networks: A ranking perspective
+Xi Xiong|Chengdu University of Information Technology!!!Empirical Analysis and Modeling of the Activity Dilemmas in Big Social Networks
+Xuguang Zhang|None!!!A Hybrid Simulation of Large Crowd Evacuation
+Lizhen Xu|None!!!A Hellinger Distance Based Anonymization Method for Weighted Social Networks
+Qinlei Li|None!!!Machine Learning Based Cross-Site Scripting Detection in Online Social Network
+Junjie He|None!!!Mobile-Based AR Application Helps to Promote EFL Children's Vocabulary Study
+Zhisheng Xu|None!!!Model predictive control considering cyber-physical system to dampen low frequency oscillation of interconnected power systems
+Jian Cheng|China University of Mining and Technology!!!Multi-Objective Particle Swarm Optimization Approach for Cost-Based Feature Selection in Classification
+Yangyang Liu|None!!!Home-Based Multi-Copy Routing in Mobile Social Networks
+Qingchen Zhang|Dalian University of Technology!!!Deep Computation Model for Unsupervised Feature Learning on Big Data
+Shangguang Wang|None!!!Learning Transportation Annotated Mobility Profiles from GPS Data for Context-Aware Mobile Services*@*Evaluating Feedback Ratings for Measuring Reputation of Web Services*@*Latent Interest and Topic Mining on User-Item Bipartite Networks*@*Towards Video Quality of Experience and Selective Attention: A Subtitle-Based Measurement Study*@*Personalized Service Recommendation for Collaborative Tagging Systems with Social Relations and Temporal Influences
+Xiaoqing Liu|None!!!A mobile medical application design model in social perspective
+Bixiang Li|None!!!A Study on the Dynamic Spatial-Temporal Trajectory Features of Pedestrian Small Group
+Xuan Chen|None!!!The Approach to Detect Abnormal Access Behavior Based on Naive Bayes Algorithm
+Shunliang Zhang|None!!!Diverse social networking applications and adaptive mobile networks*@*Diverse social networking applications and adaptive mobile networks
+Yunhuai Liu|None!!!Crowd Sensing of Urban Emergency Events Based on Social Media Big Data*@*Crowd Sensing of Urban Emergency Events Based on Social Media Big Data
+Gu Bin|None!!!Modeling and Simulating CAN-Based Cyber-Physical Systems in Modelica*@*Cyber-physical systems modeling method based on Modelica
+Xu Chen|Tianjin University!!!A hybrid malware detecting scheme for mobile Android applications
+Bin Gong|Shandong University!!!Design and implementation of portlet services of cloud computing platforms
+Supeng Leng|University of Electronic Science and Technology of China!!!Social-Aware Edge Caching in Fog Radio Access Networks*@*A scalable gather point based data delivery scheme in mobile social networks*@*Gathering Point-Aided Viral Marketing in Decentralized Mobile Social Networks*@*Joint optimization of throwbox deployment and storage allocation in Mobile Social Networks*@*Improvement of content delivery in Mobile Social Networks
+Qingsong Yu|East China Normal University!!!GA-based close relationship matching under social network environment
+T. I. Yuk|The University of Hong Kong!!!A compact multiband antenna using three monopoles for mobile phone applications
+Ying Li|Shandong University!!!Author cooperation relationship in digital publishing based on social network analysis
+Hui Liu|Chongqing University!!!A traffic congestion control method in the cyber physical systems
+Guizhang Lu|None!!!A New Service Description, Matching and Selection Mechanism for Pervasive Computing
+Zhi Wang|None!!!Crowdsourced Road Navigation: Concept, Design, and Implementation*@*Strategies of Collaboration in Multi-Channel P2P VoD Streaming
+Shu Li|None!!!An Adaptive Cloudlet Placement Method for Mobile Applications over GPS Big Data
+Xiuyan Gao|Software Institute of HeBei!!!The application of mobile based on MapX mobile in the precision irrigation agricultural demonstration zone
+Hao Hu|Nanjing University!!!Efficient Alignment Between Event Logs and Process Models
+Laurence T. Yang|Huazhong University of Science and Technology!!!A Hybrid eBusiness Software Metrics Framework for Decision Making in Cloud Computing Environment*@*Top Challenges for Smart Worlds: A Report on the Top10Cs Forum*@*From Internet to Smart World*@*KK-Clique Community Detection in Social Networks Based on Formal Concept Analysis*@*MobiFuzzyTrust: An Efficient Fuzzy Trust Inference Mechanism in Mobile Social Networks*@*Top Challenges for Smart Worlds: A Report on the Top10Cs Forum
+Bofeng Zhang|Shanghai University!!!Computing uncertain skyline of Web services via interval number*@*Service composition and user modeling for personalized recommendation in cloud computing*@*Efficient scheduling strategies in High Performance Computing Service Platform for Shanghai Colleges*@*Overlapping Community Detection in social network based on Microblog User Model
+Yilin Fang|None!!!Trusted Service Application Framework on Mobile Network
+Hongyi Zhang|None!!!Protecting Sensitive Labels in Weighted Social Networks
+Yanxia Bai|None!!!Development and Application of Intelligent Tour Guide System in Mobile Terminal
+Shuai Shao|None!!!Based on the Social Network Evaluation Model of Short-Term Interaction with Followers Micro-Blogging Marketing
+Linhong Ji|Tsinghua University!!!Implementation and Validation of Engagement Monitoring in an Engagement Enhancing Rehabilitation System
+Yinan Wang|Zhejiang University!!!Cyber attacks in cyber-physical power systems: A case study with GPRS-based SCADA systems*@*Towards a framework for cyber attack impact analysis of electric cyber physical systems*@*A new framework of electrical cyber physical systems
+Yifeng Dou|Southwest University!!!Dynamic evolution process of social network community structure based on aggregation-division model
+Zhiping Cai|National University of Defense Technology!!!Leveraging Crowd to improve data credibility for mobile crowdsensing
+Jinhua Li|Science Institute!!!Application of mobile Bluetooth based on human physiological parameters wireless sensor
+Wei Hou|None!!!An effective community detection algorithm of the social networks
+Hon Ming Yip|City University of Hong Kong!!!Development of an omnidirectional mobile robot using a RGB-D sensor for indoor navigation
+Yi Hu|Shenyang Institute of Computing technology of Chinese Academy of Sciences!!!Cyber-physical failure detection system: Survey and implementation
+Bo Li|Institute of Automation!!!A review on vision-based pedestrian detection in intelligent transportation systems*@*A review on vision-based pedestrian detection in intelligent transportation systems
+Hongwu Lv|None!!!A Service-Oriented Model for Autonomic Computing Elements Based upon Queuing Theory
+Yihong Rong|None!!!Mining a government affairs microblog network on Sina Weibo with social network analysis
+Chunhai Kou|Donghua University!!!Cyber-physical systems as general distributed parameter systems: three types of fractional order models and emerging research opportunities
+Lincheng Shen|National University of Defense Technology!!!Research on urban application-oriented route planning of UAV based on mobile communication network
+Meng Xiangxu|Shandong University!!!A reputation pattern for service oriented computing
+Hong Cai|Emerging Technology Institute!!!Research on producer service innovation in home-textile industrial cluster based on cloud computing platform
+Yan Meng|None!!!Attacks and Defenses in Location-Based Social Networks: A Heuristic Number Theory Approach
+Bo Cheng|None!!!Fragmentation and Optimal Deployment for IoT-Aware Business Process*@*Model-Based Minimum Privacy Disclosure Recommendation for Authorization Policies*@*A Social Network Based Approach for IoT Device Management and Service Composition
+Yimeng Feng|Beijing University of Posts and Telecommunications!!!An end-user oriented tool suite for development of mobile applications
+Liangtian Wan|Hohai University!!!Distributed Parameter Estimation for Mobile Wireless Sensor Network Based on Cloud Computing in Battlefield Surveillance System
+Song Li|Shandong University!!!Design and implementation of portlet services of cloud computing platforms
+Xiujun Zhang|Shenzhen University!!!Cloudets: Cloud-based cognition for large streaming data
+Xiaokang Yang|Institute of Image Communication and Information Processing!!!Crowd instability analysis using velocity-field based social force model
+Yan Lu|None!!!The implementation method and value analysis of IoT based social network
+Yue Yu|None!!!Who Should Review this Pull-Request: Reviewer Recommendation to Expedite Crowd Collaboration
+Tong Zhu|Central South University!!!The high-speed Railway Safety Comprehensive Monitor and Control System based on the Cyber Physical System architecture
+Yucong Duan|None!!!Model Under Design and Over Design on Mobile Applications*@*Toward an Automated View Abstraction for Distributed Model-Driven Service Development*@*Applying Probabilistic Model Checking to Service Discovery Framework
+Yingjuan Shi|Physics and Information Engineering Zhejiang Normal University Jinhua!!!The fog computing service for healthcare
+Zibin Zheng|Sun Yat-sen University!!!Location-Aware and Personalized Collaborative Filtering for Web Service Recommendation
+Liang Zhou|None!!!Design and Implementation of a C++ Memory Leak Detection Tool Based on Dynamic Instrumentation*@*Dynamic Taint Tracking of Web Application Based on Static Code Analysis*@*Research on the Identification of Software Behavior in Anomaly Detection
+Hong Gao|None!!!Dynamic Resource Allocation of Gateways for Packet Transmission in Cyber-Physical Systems*@*The Roles of Social Network Mavens*@*Fast Community Discovery and Its Evolution Tracking in Time-Evolving Social Networks
+Yuanlong Yu|None!!!Spammer Detection on Weibo Social Network
+Bingli Jiao|Peking University!!!Interactive crowdsourcing to spontaneous reporting of Adverse Drug Reactions
+Jie Zhou|None!!!Research on Distributed Logistics Inventory Model Based on Cloud Computing*@*The implementation method and value analysis of IoT based social network
+Lu Ou|None!!!Secure Conjunctive Multi-Keyword Search for Multiple Data Owners in Cloud Computing
+Zhiyuan Li|None!!!An Investigation Into Internet Crowdsourcing for Enterprise Software Development
+Jia Zhu|None!!!A Topic Community-Based Method for Friend Recommendation in Online Social Networks via Joint Nonnegative Matrix Factorization
+Kunhui Lin|Software School of Xiamen University!!!Friend recommendation algorithm based on location-based social networks*@*Adaptive location recommendation algorithm based on location-based social networks
+Xingguo Zhang|None!!!Real-Time Monitoring for Crowd Counting Using Video Surveillance and GIS
+ZhengLe Fan|Research Institute of Electronic Science and Technology!!!The threats of security on oVirt private cloud computing platform
+Wei Hu|Wuhan University of Science and Technology!!!Curriculum architecture construction of mobile application development
+Shanqing Guo|None!!!SRConfig: An Empirical Method of Interdependent Soft Configurations for Improving Performance in n-Tier Application
+Shen Lin-feng|Xi'an Jiaotong University!!!A clustering and selection model for service composition using granular computing
+Yao Zhang|CIMS Research Center of Tongji University!!!Mobile application development based on Adobe AIR
+Wang Xiaofan|Shanghai Jiao Tong University!!!Epidemic spreading on dualistic social networks
+Yisong Chang|None!!!Titian2: A Scalable System-Level Emulator with All Programmability for Datacenter Servers in Cloud Computing
+Shunfeng Zhou|South China University of Technology!!!Performance evaluation of parallel delay-and-sum algorithm based on SuperVessel high-performance cloud computing
+Yang Yixian|None!!!Improving security and efciency for encrypted data sharing in online social networks
+Xiaofeng Liao|None!!!Cloud Computing Service: The Caseof Large Matrix Determinant Computation*@*Cloud Computing Service: The Caseof Large Matrix Determinant Computation
+Ke Yu|None!!!Self-Similarity Analysis of Mobile Instant Messaging Applications' Traffic and Server
+Lin Lv|None!!!Reality Mining: Digging the Impact of Friendship and Location on Crowd Behavior
+Hong-Wen Liu|None!!!Application of Virtual Reality Technology in the Maintenance Training System of Mobile Power Stations
+Jiaru Lin|None!!!Text Sentiment Analysis Algorithm Optimization and Platform Development in Social Network
+Yong-Ling Ban|University of Electronic Science and Technology of China!!!Compact PIFA using capacitive coupled-fed for LTE/GSM/UMTS WWAN operation in the mobile application
+Wei Ma|Cold and Arid Regions Environmental and Engineering Research Institute!!!System for Land Surface Model Applications Based on Cloud Computing
+Lichen Zhang|None!!!Task Scheduling in Cyber-Physical Systems*@*Convergence Approach to Model Physical World and Cyber World of Aviation Cyber Physical System*@*View Oriented Approach to Specify and Model Aerospace Cyber-physical Systems*@*Specifying and Modeling Railway Cyber Physical Systems by the Extension of AADL*@*An integration approach to specify and model automotive cyber physical systems*@*Multi-view approach to model aerospace cyber-physical systems*@*Modeling Automotive Cyber Physical Systems*@*Aspect-Oriented Approach to Modeling Railway Cyber Physical Systems*@*Modeling railway cyber physical systems based on AADL*@*Multi-dimensional Analysis and Design Method for Aerospace Cyber-physical Systems*@*Requirement Specification for Transportation Cyber Physical Systems*@*Specifying and Modeling Automotive Cyber Physical Systems*@*Multi-view Approach to Specify and Model Aerospace Cyber-physical Systems*@*Multi-view Approach for Modeling Aerospace Cyber-physical Systems*@*Formal Support for Cyber Physical System Specification Using Aspect-Oriented Approach*@*QoS Modeling for Cyber-Physical Systems Using Aspect-Oriented Approach*@*Aspect-Oriented MDA Approach for Non-functional Properties of Distributed Cyber Physical Systems*@*A Clock Based Framework for Specifying and Modeling the Time Constraints of Cyber Physical Systems*@*Specifying Time Constraints of Cyber Physical Systems Based on Clock Theory*@*Formal Specification of Cyber Physical Systems: Three Case Studies Based on Clock Theory*@*Formal Specification for Real Time Cyber Physical Systems Using Aspect-Oriented Approach*@*QoS Modeling for Dependable and Distributed Cyber Physical Systems Using Aspect-Oriented Approach*@*Aspect-Oriented MDA Development Method for Non-Functional Properties of Cyber Physical Systems
+Cui Shuo|None!!!Design and implementation of sunlight greenhouse service platform based on IOT and cloud computing
+Joshua Le-Wei Li|Institute of Electromagnetics!!!Printed eight-band WWAN/LTE antenna for internal mobile phone application
+Tao Wang|Peking University!!!Small-cell caching mechanism for multi-service providers
+Haiyang Wang|Shandong University!!!A Service-Oriented Business Rule-Based Application Platform in Pervasive Computing Environments*@*Building Personal Process-Oriented Services in Pervasive Computing
+Jun Wei|Institute of Software!!!FD4C: Automatic Fault Diagnosis Framework for Web Applications in Cloud Computing
+Qijuan He|None!!!An Enhanced Multiple-Mode penta-band Antenna (EMMA) for mobile applications with improved beside head and hand performance
