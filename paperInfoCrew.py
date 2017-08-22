@@ -31,12 +31,8 @@ selectedKeys = [
 ]
 class PaperInfoCrew:
     def __init__(self):
-        # self.email = 'sh.wu@siat.ac.cn'
-        # self.password = '546black'
-        # self.email = 'zhangjiao16@nudt.edu.cn'
-        # self.password = 'zhj1210zhj'
-        self.email = 'xy.chen1@siat.ac.cn'
-        self.password = 'free347450'
+        self.email = 'sh.wu@siat.ac.cn'
+        self.password = '546black'
 
     # 从DBLP可以统计发表IEEE Trans.篇数
     def DBLPcrew(self, num):
